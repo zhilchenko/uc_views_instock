@@ -1,0 +1,45 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  uc_views_instock.views.inc: n/a
+#  uc_views_instock.info: n/a
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-10-12 10:05+0600\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: uc_views_instock.views.inc:15
+msgid "Stock"
+msgstr ""
+
+#: uc_views_instock.views.inc:16;20
+msgid "In stock"
+msgstr ""
+
+#: uc_views_instock.views.inc:17
+msgid "Stock control is inactive or product in stock"
+msgstr ""
+
+#: uc_views_instock.info:0
+msgid "Ubercart Views In Stock"
+msgstr ""
+
+#: uc_views_instock.info:0
+msgid "Product in stock filter for Views."
+msgstr ""
+
+#: uc_views_instock.info:0
+msgid "Ubercart - views"
+msgstr ""
+
