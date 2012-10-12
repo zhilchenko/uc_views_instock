@@ -14,7 +14,7 @@ function uc_views_instock_views_data() {
       'instock' => array(
         'group'  => t('Stock'),
         'title'  => t('In stock'),
-        'help'   => t('Stock control is inactive or stock control is active and product in stock'),
+        'help'   => t('Stock control is inactive or product in stock'),
         'filter' => array(
           'handler' => 'uc_views_instock_handler_filter_instock',
           'label'   => t('In stock'),

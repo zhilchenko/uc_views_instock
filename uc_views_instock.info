@@ -1,5 +1,5 @@
 name = Ubercart Views In Stock
-description = Add views filter for products with active stock control and also in stock.
+description =  Product in stock filter for Views.
 dependencies[] = uc_product
 dependencies[] = uc_stock
 dependencies[] = views
