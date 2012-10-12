@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @file
+ * Add's in stock filter for products to views.
+ */
+
+/**
+ * Implements of hook_views_api().
+ */
+function uc_views_instock_views_api() {
+  return array('api' => 2);
+}
